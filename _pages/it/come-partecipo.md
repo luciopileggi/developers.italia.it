@@ -34,7 +34,7 @@ pair-blocks:
           class: btn btn-primary
           url: '/it/riuso/pubblicazione'
     - title: "Segnala nuove API disponibili"
-      text: "Molti servizi pubblici espongono interfacce di interoperabilità. Il [catalogo](/it/api) di Developers Italia ha l'obiettivo di censirle tutte ed offrirle agli sviluppatori che vogliano immaginare nuovi servizi integrati. Se sei a conoscenza di API non ancora censite, o la stai creando tu stesso, inviaci una segnalazione!"
+      text: "Molti servizi pubblici espongono interfacce di interoperabilità. Il [catalogo](/it/api) di Developers Italia ha l'obiettivo di censirle tutte ed offrirle agli sviluppatori che vogliano immaginare nuovi servizi integrati. Se sei a conoscenza di API non ancora censite, o le stai creando tu stesso, inviaci una segnalazione!"
       image: /assets/images/come-partecipo-2.svg
       buttons:
         - label: Segnala un'API
